@@ -1,16 +1,20 @@
-## Hi there 👋
+Microsoft Intune & Endpoint Security Engineer | Modern Workplace & Enterprise Device Management | Microsoft Defender for Endpoint
 
-<!--
-**mcanops/mcanops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧠 Core Expertise
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Microsoft Intune (Endpoint Management, Compliance, Configuration Profiles)
+- Microsoft Defender for Endpoint & Endpoint Security Hardening
+- Microsoft Entra ID (Azure AD) Identity & Access Management
+- Conditional Access & MFA policies
+- Windows Autopilot & Modern Device Provisioning
+- Windows Autopatch
+- MECM / SCCM to Intune Migrations
+- Application Deployment & Patch Management
+
+---
+
+## 📫 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://de.linkedin.com/in/mehmet-can-kavlako%C4%9Flu-847690161)
